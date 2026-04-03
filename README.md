@@ -18,7 +18,11 @@
 }
 ```
 
-## 文件
+## 文件說明
 
-- `tvbox_jable.json` - TVBox 數據源
+- `tvbox_jable.json` - TVBox 主數據源
+- `tvbox_home.json` - 首頁推薦數據
 - `jable_playlist.m3u` - M3U 播放列表
+
+## 更新時間
+$(date)

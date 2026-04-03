@@ -1,28 +1,29 @@
 {
-  "code": 1,
-  "msg": "success",
-  "page": 1,
-  "pagecount": 1,
-  "limit": "2",
-  "total": 2,
-  "list": [
+  "sites": [
     {
-      "vod_id": "HOMA-163",
-      "vod_name": "HOMA-163",
-      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58052/320x180/1.jpg",
-      "vod_remarks": "2:20:09",
-      "vod_content": "HOMA-163 バイト先の欲求不満な人妻はキスがとろけるほど上手で",
-      "vod_play_from": "Jable",
-      "vod_play_url": "播放$https://akuma-trstin.mushroomtrack.com/hls/i6hCQzPjV6Praf6i7aKR0w/1775233068/58000/58029/58029.m3u8"
-    },
-    {
-      "vod_id": "SDAM-162",
-      "vod_name": "SDAM-162",
-      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58038/320x180/1.jpg",
-      "vod_remarks": "2:37:01",
-      "vod_content": "2:37:01",
-      "vod_play_from": "Jable",
-      "vod_play_url": "播放$https://austin-billion.mushroomtrack.com/hls/iySxEC-oYi5zP__YNxEMqg/1775232727/58000/58038/58038.m3u8"
+      "key": "jable",
+      "name": "Jable",
+      "type": 1,
+      "api": "",
+      "extra": "",
+      "playUrl": "",
+      "categories": [
+        "全部"
+      ],
+      "videos": [
+        {
+          "name": "HOMA-163",
+          "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58052/320x180/1.jpg",
+          "category": "全部",
+          "url": "https://akuma-trstin.mushroomtrack.com/hls/i6hCQzPjV6Praf6i7aKR0w/1775233068/58000/58029/58029.m3u8"
+        },
+        {
+          "name": "SDAM-162",
+          "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58038/320x180/1.jpg",
+          "category": "全部",
+          "url": "https://austin-billion.mushroomtrack.com/hls/iySxEC-oYi5zP__YNxEMqg/1775232727/58000/58038/58038.m3u8"
+        }
+      ]
     }
   ]
 }

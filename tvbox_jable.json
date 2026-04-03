@@ -5,11 +5,27 @@
   "pagecount": 1,
   "limit": "3",
   "total": 3,
+  "class": [
+    {
+      "type_id": "1",
+      "type_name": "全部"
+    },
+    {
+      "type_id": "2",
+      "type_name": "最新"
+    },
+    {
+      "type_id": "3",
+      "type_name": "熱門"
+    }
+  ],
   "list": [
     {
       "vod_id": "SDAM-160",
       "vod_name": "SDAM-160",
       "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58037/320x180/1.jpg",
+      "type_id": "1",
+      "type_name": "全部",
       "vod_remarks": "2:31:50...",
       "vod_content": "2:31:50",
       "vod_play_from": "Jable",
@@ -19,6 +35,8 @@
       "vod_id": "SNOS-154",
       "vod_name": "SNOS-154",
       "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58051/320x180/1.jpg",
+      "type_id": "1",
+      "type_name": "全部",
       "vod_remarks": "2:00:28...",
       "vod_content": "2:00:28",
       "vod_play_from": "Jable",
@@ -28,6 +46,8 @@
       "vod_id": "SNOS-153",
       "vod_name": "SNOS-153",
       "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58050/320x180/1.jpg",
+      "type_id": "1",
+      "type_name": "全部",
       "vod_remarks": "2:00:10...",
       "vod_content": "2:00:10",
       "vod_play_from": "Jable",

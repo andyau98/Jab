@@ -1,0 +1,31 @@
+{
+  "code": 1,
+  "msg": "success",
+  "page": 1,
+  "pagecount": 1,
+  "limit": "3",
+  "total": 3,
+  "list": [
+    {
+      "vod_id": "SDAM-160",
+      "vod_name": "SDAM-160",
+      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58037/320x180/1.jpg",
+      "type_name": "Jable",
+      "vod_remarks": "2:31:50..."
+    },
+    {
+      "vod_id": "SNOS-154",
+      "vod_name": "SNOS-154",
+      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58051/320x180/1.jpg",
+      "type_name": "Jable",
+      "vod_remarks": "2:00:28..."
+    },
+    {
+      "vod_id": "SNOS-153",
+      "vod_name": "SNOS-153",
+      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58050/320x180/1.jpg",
+      "type_name": "Jable",
+      "vod_remarks": "2:00:10..."
+    }
+  ]
+}

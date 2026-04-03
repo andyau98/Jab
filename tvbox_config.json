@@ -1,0 +1,19 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "jable",
+      "name": "Jable",
+      "type": 1,
+      "api": "https://raw.githubusercontent.com/andyau98/Jab/main/tvbox_jable.json",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "ads": []
+}

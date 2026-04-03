@@ -6,49 +6,40 @@
   "limit": "3",
   "total": 3,
   "class": [
-    {
-      "type_id": "1",
-      "type_name": "全部"
-    },
-    {
-      "type_id": "2",
-      "type_name": "最新"
-    },
-    {
-      "type_id": "3",
-      "type_name": "熱門"
-    }
+    {"type_id": "1", "type_name": "全部"},
+    {"type_id": "2", "type_name": "最新"},
+    {"type_id": "3", "type_name": "熱門"}
   ],
   "list": [
     {
+      "vod_id": "SDAM-162",
+      "vod_name": "SDAM-162",
+      "type_id": "1",
+      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58039/320x180/1.jpg",
+      "vod_remarks": "2:37:01",
+      "vod_content": "2:37:01",
+      "vod_play_from": "Jable",
+      "vod_play_url": "https://asf-doc.mushroomtrack.com/hls/99t3VOEB8gaLZ21ZoR9ZZA/1775236320/58000/58039/58039.m3u8"
+    },
+    {
       "vod_id": "SDAM-160",
       "vod_name": "SDAM-160",
-      "type_id": "1",
+      "type_id": "2",
       "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58037/320x180/1.jpg",
       "vod_remarks": "2:31:50",
       "vod_content": "2:31:50",
       "vod_play_from": "Jable",
-      "vod_play_url": "https://akuma-trstin.mushroomtrack.com/hls/OxON3RmRXhun10pTYb8mAw/1775235520/58000/58037/58037.m3u8"
+      "vod_play_url": "https://honi-moly-yami.mushroomtrack.com/hls/KhGeVd8W4cT3NSpUq8mZ5g/1775236320/58000/58037/58037.m3u8"
     },
     {
       "vod_id": "SNOS-154",
       "vod_name": "SNOS-154",
-      "type_id": "2",
+      "type_id": "3",
       "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58051/320x180/1.jpg",
       "vod_remarks": "2:00:28",
       "vod_content": "2:00:28",
       "vod_play_from": "Jable",
-      "vod_play_url": "https://anono-cloneing.mushroomtrack.com/hls/UuO7-t3etrjx_0iU1sC9yQ/1775235520/58000/58051/58051.m3u8"
-    },
-    {
-      "vod_id": "SNOS-153",
-      "vod_name": "SNOS-153",
-      "type_id": "3",
-      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58050/320x180/1.jpg",
-      "vod_remarks": "2:00:10",
-      "vod_content": "2:00:10",
-      "vod_play_from": "Jable",
-      "vod_play_url": "https://akuma-trstin.mushroomtrack.com/hls/G26xif5IgMLOb5PGJ4z6Lg/1775235516/58000/58050/58050.m3u8"
+      "vod_play_url": "https://hot-box-gen.mushroomtrack.com/hls/qczrNV5WlroPmurL7J9bLg/1775236320/58000/58051/58051.m3u8"
     }
   ]
 }

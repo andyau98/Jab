@@ -15,11 +15,11 @@
       "vod_id": "SDAM-162",
       "vod_name": "SDAM-162",
       "type_id": "1",
-      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58039/320x180/1.jpg",
+      "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58038/320x180/1.jpg",
       "vod_remarks": "2:37:01",
       "vod_content": "2:37:01",
       "vod_play_from": "Jable",
-      "vod_play_url": "https://asf-doc.mushroomtrack.com/hls/99t3VOEB8gaLZ21ZoR9ZZA/1775236320/58000/58039/58039.m3u8"
+      "vod_play_url": "https://austin-billion.mushroomtrack.com/hls/iySxEC-oYi5zP__YNxEMqg/1775232727/58000/58038/58038.m3u8"
     },
     {
       "vod_id": "SDAM-160",
@@ -29,7 +29,7 @@
       "vod_remarks": "2:31:50",
       "vod_content": "2:31:50",
       "vod_play_from": "Jable",
-      "vod_play_url": "https://honi-moly-yami.mushroomtrack.com/hls/KhGeVd8W4cT3NSpUq8mZ5g/1775236320/58000/58037/58037.m3u8"
+      "vod_play_url": "https://honi-moly-yami.mushroomtrack.com/hls/KhGeVd8W4cT3NSp4dKzvyQ/1775232617/58000/58037/58037.m3u8"
     },
     {
       "vod_id": "SNOS-154",
@@ -39,7 +39,7 @@
       "vod_remarks": "2:00:28",
       "vod_content": "2:00:28",
       "vod_play_from": "Jable",
-      "vod_play_url": "https://hot-box-gen.mushroomtrack.com/hls/qczrNV5WlroPmurL7J9bLg/1775236320/58000/58051/58051.m3u8"
+      "vod_play_url": "https://hot-box-gen.mushroomtrack.com/hls/qczrNV5WlroPmurL7Jn2GQ/1775232150/58000/58051/58051.m3u8"
     }
   ]
 }

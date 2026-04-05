@@ -1,6 +1,5 @@
 {
-  "code": 1,
-  "msg": "success",
+  "class": ["全部"],
   "page": 1,
   "pagecount": 1,
   "limit": "5",

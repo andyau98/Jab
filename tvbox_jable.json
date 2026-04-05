@@ -3,10 +3,61 @@
   "msg": "success",
   "data": {
     "class": ["全部"],
-    "list": [
+    "types": [
       {
         "type_name": "全部",
         "type_id": "0"
+      }
+    ],
+    "page": 1,
+    "pagecount": 1,
+    "limit": "5",
+    "total": 5,
+    "list": [
+      {
+        "vod_id": "MIDA-580",
+        "vod_name": "MIDA-580",
+        "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/14000/14425/320x180/1.jpg",
+        "vod_remarks": "Jable",
+        "vod_content": "MIDA-580",
+        "vod_play_from": "Jable",
+        "vod_play_url": "https://media-hls.growcdnssedge.com/b-hls-27/211197380/211197380_240p.m3u8"
+      },
+      {
+        "vod_id": "ABF-336",
+        "vod_name": "ABF-336",
+        "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/38000/38782/320x180/1.jpg",
+        "vod_remarks": "Jable",
+        "vod_content": "ABF-336",
+        "vod_play_from": "Jable",
+        "vod_play_url": "https://media-hls.growcdnssedge.com/b-hls-27/211197380/211197380_240p.m3u8"
+      },
+      {
+        "vod_id": "ABF-333",
+        "vod_name": "ABF-333",
+        "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/21000/21089/320x180/1.jpg",
+        "vod_remarks": "Jable",
+        "vod_content": "ABF-333",
+        "vod_play_from": "Jable",
+        "vod_play_url": "https://media-hls.growcdnssedge.com/b-hls-28/151553207/151553207_240p.m3u8"
+      },
+      {
+        "vod_id": "SDAM-162",
+        "vod_name": "SDAM-162",
+        "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/46000/46417/320x180/1.jpg",
+        "vod_remarks": "Jable",
+        "vod_content": "SDAM-162",
+        "vod_play_from": "Jable",
+        "vod_play_url": "https://media-hls.growcdnssedge.com/b-hls-28/151553207/151553207_240p.m3u8"
+      },
+      {
+        "vod_id": "MIDA-576",
+        "vod_name": "MIDA-576",
+        "vod_pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39538/320x180/1.jpg",
+        "vod_remarks": "Jable",
+        "vod_content": "MIDA-576",
+        "vod_play_from": "Jable",
+        "vod_play_url": "https://media-hls.growcdnssedge.com/b-hls-28/151553207/151553207_240p.m3u8"
       }
     ]
   }

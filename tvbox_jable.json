@@ -2,16 +2,34 @@
   "class": "影视",
   "list": [
     {
-      "name": "HOMA-163",
-      "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58052/320x180/1.jpg",
+      "name": "MIDA-580",
+      "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/14000/14425/320x180/1.jpg",
       "category": "全部",
-      "play_url": "https://akuma-trstin.mushroomtrack.com/hls/i6hCQzPjV6Praf6i7aKR0w/1775233068/58000/58029/58029.m3u8"
+      "play_url": "https://media-hls.growcdnssedge.com/b-hls-27/211197380/211197380_240p.m3u8"
+    },
+    {
+      "name": "ABF-336",
+      "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/38000/38782/320x180/1.jpg",
+      "category": "全部",
+      "play_url": "https://media-hls.growcdnssedge.com/b-hls-27/211197380/211197380_240p.m3u8"
+    },
+    {
+      "name": "ABF-333",
+      "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/21000/21089/320x180/1.jpg",
+      "category": "全部",
+      "play_url": "https://media-hls.growcdnssedge.com/b-hls-28/151553207/151553207_240p.m3u8"
     },
     {
       "name": "SDAM-162",
-      "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/58000/58038/320x180/1.jpg",
+      "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/46000/46417/320x180/1.jpg",
       "category": "全部",
-      "play_url": "https://austin-billion.mushroomtrack.com/hls/iySxEC-oYi5zP__YNxEMqg/1775232727/58000/58038/58038.m3u8"
+      "play_url": "https://media-hls.growcdnssedge.com/b-hls-28/151553207/151553207_240p.m3u8"
+    },
+    {
+      "name": "MIDA-576",
+      "pic": "https://assets-cdn.jable.tv/contents/videos_screenshots/39000/39538/320x180/1.jpg",
+      "category": "全部",
+      "play_url": "https://media-hls.growcdnssedge.com/b-hls-28/151553207/151553207_240p.m3u8"
     }
   ]
 }
